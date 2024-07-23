@@ -1,0 +1,16 @@
+{
+    "name": "sedalit/slim-example",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Sedalit\\SlimExample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladislav Agarkov",
+            "email": "hello.agarkov@gmail.com"
+        }
+    ],
+    "require": {}
+}
